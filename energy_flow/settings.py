@@ -136,3 +136,6 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaicFilesStorage'
 
 
 django_heroku.settings(locals())
+
+
+
